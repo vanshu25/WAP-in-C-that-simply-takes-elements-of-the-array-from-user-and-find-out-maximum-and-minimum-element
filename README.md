@@ -1,0 +1,1 @@
+# WAP-in-C-that-simply-takes-elements-of-the-array-from-user-and-find-out-maximum-and-minimum-element
